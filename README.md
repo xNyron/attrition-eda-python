@@ -56,7 +56,7 @@ Compared features against attrition to find patterns:
 
 | File                      | Description                                      |
 |---------------------------|--------------------------------------------------|
-| `attrition_analysis.ipynb`| Jupyter Notebook containing the full EDA process |
+| `attrition_PreprocessingData.ipynb`| Jupyter Notebook containing the full EDA process |
 | `cleaned_data.csv`          | Cleaned dataset after preprocessing              |
 | `README.md`               | Project explanation and documentation            |
 
